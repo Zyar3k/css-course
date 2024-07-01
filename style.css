@@ -1,13 +1,10 @@
 h1 {
     color: blue;
-    ;
+    /* this is a comment */
+    font-size: 28px;
+    /* this is another comment */
 }
 
-.special {
-    font-weight: bold;
-    color: red;
-}
-
-#unique {
-    text-decoration: underline;
+p {
+    font-size: 16px;
 }
