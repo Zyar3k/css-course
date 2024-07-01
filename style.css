@@ -1,14 +1,13 @@
-body {
-    background-color: white;
-
-}
-
 h1 {
-    color: green;
-    text-align: center;
+    color: blue;
+    ;
 }
 
-p {
-    font-family: Verdana;
-    font-size: 20px;
+.special {
+    font-weight: bold;
+    color: red;
+}
+
+#unique {
+    text-decoration: underline;
 }
