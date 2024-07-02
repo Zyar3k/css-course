@@ -1,14 +1,7 @@
-body {
-    background-color: rgb(141, 161, 179);
-}
-
-h1 {
-    background-color: dodgerblue;
-    color: tomato;
-    opacity: 0.3;
-}
-
 p {
-    background-color: yellowgreen;
-    color: blue;
+    border: double;
+    border-width: 5px;
+    border-color: red;
+    border-radius: 8px;
+    padding: 10px;
 }
