@@ -1,19 +1,14 @@
-.first-outline {
-    outline: 2px solid blue;
-    padding: 10px;
-    margin: 10px;
+body {
+    background-color: lightgray;
+    color: blue;
 }
 
-.second-outline {
-    outline: 3px dashed green;
-    padding: 10px;
-    margin: 10px;
-    text-decoration: none;
+h1 {
+    background-color: black;
+    color: whitesmoke
 }
 
-.no-focus-outline {
-    outline: none;
-    border: 2px solid grey;
-    padding: 10px;
-    margin: 10px;
+div {
+    background-color: blueviolet;
+    color: wheat;
 }
